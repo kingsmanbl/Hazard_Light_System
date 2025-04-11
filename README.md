@@ -22,3 +22,5 @@ current cycling of the lights, and the lights must switch over to the new patter
 possible (however, it can enter into any point in the other pattern’s behaviors).
 
 Through this project, I was able to recreate the Hazard Light System and ensure 100% functionality as given by the prompt using DE1_SoC. I designed the system by drawing FSM state diagrams and also verified my design using testbenches through ModelSim. 
+
+For all the other projects, I will not be putting on the files that Quartus automatically generates when runs. If you want to run my project, you can download the .sv file and run it on Quartus in your own environment.
